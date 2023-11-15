@@ -16,7 +16,7 @@
 ## Habilidades Técnicas
 
 - Desarrollo de diagramas(UML)
-- Programación en Java y C#
+- Programación en Java y C
 - Gestión de Bases de Datos (SQL)
 - Desarrollo Web (HTML)
 
