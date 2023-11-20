@@ -35,5 +35,4 @@ Todavía no tengo experiencia laboral en el ámbito ya que noo he terminado mis 
 
 ## Redes Sociales y Perfiles en Línea👥🤳
 
-- [Instagram](https://www.instagram.com/pedromarquez01/)
 - [GitHub](https://github.com/pedrojmarquez)
